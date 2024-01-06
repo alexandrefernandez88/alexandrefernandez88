@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @alexandrefernandez88
-- 👀 I’m interested in  Metodologias Ágeis e desenvolvimento de software
-- 🌱 I am working in Systems Analysis and Development and focused on agile methodologies and their frameworks
-- 💞️ I’m looking to collaborate on  com o crescimento do time como um todo
-- 📫 How to reach me  é fácil, basta enviar um e-mail ao alexandre-fernandez@hotmail.com
+👋 Olá, sou @alexandrefernandez88!
+
+👀 Tenho um grande interesse em Metodologias Ágeis e desenvolvimento de software.
+
+🌱 Atualmente, estou imerso em projetos de Análise e Desenvolvimento de Sistemas, concentrando meus esforços nas práticas ágeis e seus frameworks.
+
+💞️ Busco colaborar ativamente para o crescimento contínuo, contribuindo para o avanço da área e compartilhando conhecimentos.
+
+Vamos juntos impulsionar a inovação e eficiência no mundo do desenvolvimento de software! 🚀
+
 
 <!---
 alexandrefernandez88/alexandrefernandez88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
