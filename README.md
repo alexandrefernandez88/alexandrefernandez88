@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexandrefernandez88
 - 👀 I’m interested in  Metodologias Ágeis e desenvolvimento de software
-- 🌱 I’m currently learning Análise e Desenvolvimento de Sistemas e focado nas metodologias ágeis e seus frameworks
+- 🌱 I am working in Systems Analysis and Development and focused on agile methodologies and their frameworks
 - 💞️ I’m looking to collaborate on  com o crescimento do time como um todo
 - 📫 How to reach me  é fácil, basta enviar um e-mail ao alexandre-fernandez@hotmail.com
 
